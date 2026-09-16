@@ -1,0 +1,14 @@
+// Una tienda aplica descuentos según el total de una compra:
+
+// Menos de $20.000: sin descuento. - HECHO
+// Desde $20.000 hasta $49.999: 5%. - HECHO
+// Desde $50.000 hasta $99.999: 10%. - HECHO
+// Desde $100.000: 15%. - HECHO
+// Si el cliente es miembro, obtiene 5% adicional. - HECHO
+// El total debe ser mayor que 0. - HECHO
+
+// Tu programa debe imprimir:
+
+// Total original.
+// Descuento total aplicado.
+// Total final.

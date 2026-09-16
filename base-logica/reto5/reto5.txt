@@ -1,0 +1,12 @@
+// Un sistema controla los intentos de inicio de sesión.
+
+// Reglas:
+
+// La contraseña correcta es "backend123".
+// El usuario tiene 3 intentos máximo.
+// En cada intento debe comprobarse la contraseña ingresada.
+// Si acierta, mostrar "Acceso concedido" y dejar de pedir intentos.
+// Si falla, mostrar cuántos intentos le quedan.
+// Si consume los 3 intentos, mostrar "Cuenta bloqueada".
+
+// Para simular las contraseñas ingresadas, puedes definirlas directamente en el código.

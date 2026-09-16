@@ -1,12 +1,4 @@
 <?php
-
-// Crea un programa en PHP que reciba un número entero y determine:
-// Si es positivo, negativo o cero.
-// Si es par o impar.
-// Si es múltiplo de 3.
-// Si está entre 10 y 100 inclusive.
-
-
 $numero = 45;
 
 if (is_int($numero)) {

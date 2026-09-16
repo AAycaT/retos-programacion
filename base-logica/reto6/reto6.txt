@@ -1,0 +1,16 @@
+// Un sistema procesa las notas de 5 estudiantes.
+
+// Cada estudiante tiene una nota entre 1.0 y 7.0.
+
+// El programa debe determinar:
+
+// Cuántos aprobaron (nota >= 4.0).
+// Cuántos reprobaron.
+// Cuál fue la nota más alta.
+// Cuál fue la nota más baja.
+// El promedio del curso.
+// Si alguna nota está fuera del rango 1.0–7.0, mostrar un error y detener el programa.
+
+// Define las 5 notas directamente en el código.
+
+// No uses funciones de PHP que calculen directamente máximo, mínimo, suma o promedio.

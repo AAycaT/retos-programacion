@@ -1,15 +1,5 @@
 <?php
 
-// Un estacionamiento cobra según las horas:
-
-// Hasta 2 horas: $1.500 por hora.
-// Más de 2 y hasta 5 horas: $1.200 por hora.
-// Más de 5 horas: $1.000 por hora.
-// Si permanece más de 8 horas, se añade un recargo de $3.000.
-// No se permiten 0 horas ni valores negativos.
-
-// Tu programa debe recibir las horas e imprimir el total a pagar.
-
 $horas = 20;
 $valor_total = 0;
 

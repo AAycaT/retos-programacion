@@ -1,0 +1,19 @@
+
+// Un sistema administra el stock de un producto.
+
+// Stock inicial: 20 unidades.
+
+// Debes procesar estas operaciones en orden:
+
+// $operaciones = [5, -8, -10, 6, -4];
+
+// Reglas:
+// Un número positivo agrega unidades al stock. - ok
+// Un número negativo representa una venta y resta unidades. - ok
+// El stock nunca puede quedar bajo 0. - pdt
+// Si una venta supera el stock disponible, esa operación debe rechazarse y el stock debe permanecer igual. - ok
+// Después de cada operación, muestra el stock actual. - ok
+// Al finalizar, muestra:
+// Stock final.
+// Cantidad de operaciones realizadas correctamente.
+// Cantidad de operaciones rechazadas.
